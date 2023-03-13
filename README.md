@@ -31,6 +31,3 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Google Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />
 &nbsp;&nbsp;
-
-### Github Stats
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofigs&count_private=true&show_icons=true&theme=dark)
